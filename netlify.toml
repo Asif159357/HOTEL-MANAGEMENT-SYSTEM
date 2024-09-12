@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "/login.py"
+to = "/Hotel.py"
 status = 200
